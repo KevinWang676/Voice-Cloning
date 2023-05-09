@@ -1,0 +1,24 @@
+https://isv-data.oss-cn-hangzhou.aliyuncs.com/ics/MaaS/TTS/requirements/modelscope-1.4.0rc0-py3-none-any.whl
+https://isv-data.oss-cn-hangzhou.aliyuncs.com/ics/MaaS/TTS/requirements/mkl-2023.0.0-py2.py3-none-manylinux1_x86_64.whl
+https://isv-data.oss-cn-hangzhou.aliyuncs.com/ics/MaaS/TTS/requirements/pyarrow-11.0.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+https://isv-data.oss-cn-hangzhou.aliyuncs.com/ics/MaaS/TTS/requirements/intel_openmp-2023.0.0-py2.py3-none-manylinux1_x86_64.whl
+https://isv-data.oss-cn-hangzhou.aliyuncs.com/ics/MaaS/TTS/requirements/tbb-2021.8.0-py2.py3-none-manylinux1_x86_64.whl
+https://isv-data.oss-cn-hangzhou.aliyuncs.com/ics/MaaS/TTS/requirements/intel_cmplr_lib_rt-2023.0.0-py2.py3-none-manylinux1_x86_64.whl
+https://isv-data.oss-cn-hangzhou.aliyuncs.com/ics/MaaS/TTS/requirements/intel_opencl_rt-2023.0.0-py2.py3-none-manylinux1_x86_64.whl
+https://isv-data.oss-cn-hangzhou.aliyuncs.com/ics/MaaS/TTS/requirements/onnxruntime-1.12.1-cp37-cp37m-manylinux_2_27_x86_64.whl
+https://isv-data.oss-cn-hangzhou.aliyuncs.com/ics/MaaS/TTS/requirements/dpcpp_cpp_rt-2023.0.0-py2.py3-none-manylinux1_x86_64.whl
+https://isv-data.oss-cn-hangzhou.aliyuncs.com/ics/MaaS/TTS/requirements/mkl_fft-1.3.1-16-cp37-cp37m-manylinux2014_x86_64.whl
+https://isv-data.oss-cn-hangzhou.aliyuncs.com/ics/MaaS/TTS/requirements/mkl_random-1.2.2-16-cp37-cp37m-manylinux2014_x86_64.whl
+https://isv-data.oss-cn-hangzhou.aliyuncs.com/ics/MaaS/TTS/requirements/mkl_umath-0.1.1-26-cp37-cp37m-manylinux2014_x86_64.whl
+https://isv-data.oss-cn-hangzhou.aliyuncs.com/ics/MaaS/TTS/requirements/mkl_service-2.4.0-0-cp37-cp37m-manylinux2014_x86_64.whl
+https://isv-data.oss-cn-hangzhou.aliyuncs.com/ics/MaaS/TTS/requirements/tbb4py-2021.8.0-py37-none-manylinux1_x86_64.whl
+https://isv-data.oss-cn-hangzhou.aliyuncs.com/ics/MaaS/TTS/requirements/intel_cmplr_lic_rt-2023.0.0-py2.py3-none-manylinux1_x86_64.whl
+-i https://pypi.tuna.tsinghua.edu.cn/simple
+https://isv-data.oss-cn-hangzhou.aliyuncs.com/ics/MaaS/TTS/requirements/kantts-0.0.1-py3-none-any.whl
+https://isv-data.oss-cn-hangzhou.aliyuncs.com/ics/MaaS/TTS/requirements/nls_pykaldi-1.0.0-cp37-cp37m-linux_x86_64.whl
+https://isv-data.oss-cn-hangzhou.aliyuncs.com/ics/MaaS/TTS/requirements/ttsfrd-0.1.2-cp37-cp37m-linux_x86_64.whl
+https://isv-data.oss-cn-hangzhou.aliyuncs.com/ics/MaaS/TTS/requirements/tts_autolabel-1.0.1-py3-none-any.whl
+-i https://pypi.anaconda.org/intel/simple
+--extra-index-url https://pypi.org/simple
+numpy==1.21.4
+typeguard==2.13.3
